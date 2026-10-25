@@ -93,3 +93,10 @@ Membuat kalkulator sederhana
 ![Gambar 24](ss/js9.png)
 
 ![Gambar 25](ss/output9.png)
+
+### Kesimpulan
+Berdasarkan materi dan praktikum yang telah dipelajari, dapat disimpulkan bahwa **JavaScript** merupakan bahasa pemrograman yang digunakan untuk membuat halaman web menjadi lebih dinamis dan interaktif. 
+
+JavaScript tidak hanya digunakan untuk menampilkan informasi, tetapi juga dapat mengubah konten HTML, mengatur tampilan CSS, serta merespons tindakan pengguna.
+
+Melalui praktikum ini, kita dapat memahami penggunaan dasar JavaScript, seperti variabel, tipe data, operator aritmetika, percabangan if-else dan switch, perulangan, serta function. Selain itu, kita juga mempelajari cara menampilkan output menggunakan console.log(), alert(), dan prompt(), serta memanipulasi elemen HTML menggunakan DOM.
