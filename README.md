@@ -6,6 +6,7 @@ JavaScript dapat mengubah konten HTML, nilai atribut, gaya CSS, serta menampilka
 
 ### 1. Menampilkan output
 Buat file baru dengan nama *script.js* 
+
 ![Gambar 1](ss/js1.png)
 
 ![Gambar 2](ss/output1.png)
@@ -37,6 +38,7 @@ If-Else adalah struktur logika dasar yang digunakan
 untuk membuat percabangan program. 
 
 Tambahkan di file *script.js*
+
 ![Gambar 8](ss/ss4.png)
 
 ![Gambar 9](ss/output4.png)
@@ -48,6 +50,7 @@ Switch adalah bentuk percabangan dimana membandingkan **satu nilai yang sama**
 terhadap banyak kemungkinan nilai tetap.
 
 Tambahkan di file *script.js*
+
 ![Gambar 11](ss/ss5.png)
 
 ![Gambar 12](ss/output5.png) 
@@ -58,6 +61,7 @@ Tambahkan di file *script.js*
 Tambahkan form di body **index.html** 
 Saat tombol ditekan, program memeriksa bilangan 
 dan menampilkan apakah bilangan genap atau ganjil.
+
 ![Gambar 14](ss/ss6.png)
 
 ![Gambar 15](ss/js6.png)
@@ -66,6 +70,7 @@ dan menampilkan apakah bilangan genap atau ganjil.
 
 ### 7. Mengubah warna halaman
 Membuat tiga tombol yang mengubah warna latar halaman.
+
 ![Gambar 17](ss/ss7.png)
 
 ![Gambar 18](ss/js7.png)
@@ -82,6 +87,7 @@ Membuat tiga tombol yang mengubah warna latar halaman.
 
 ### 9. Mini Project — Kalkulator Nilai Mahasiswa
 Membuat kalkulator sederhana
+
 ![Gambar 23](ss/ss9.png)
 
 ![Gambar 24](ss/js9.png)
