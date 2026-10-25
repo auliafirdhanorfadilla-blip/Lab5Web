@@ -12,10 +12,16 @@ buat file dengan nama *script.js*
 
 ### 2. Alert dan prompt
 Menguji dengan memasukkan nama, menekan Cancel, dan membiarkan input kosong.
-1[Gambar 4](ss/ss2.png)
+![Gambar 4](ss/ss2.png)
 ![Gambar 5](ss/output2.png)
 
 ### 3. Function dan operasi aritmatika
 menampilkan hasil penjumlahan, pengurangan, perkalian, pembagian, dan sisa bagi.
 ![Gambar 6](ss/ss3.png)
 ![Gambar 7](ss/output3.png)
+
+### 4. Seleksi kondisi if–else
+If-Else adalah struktur logika dasar yang digunakan untuk membuat percabangan program. 
+![Gambar 8](ss/ss4.png)
+![Gambar 9](ss/output4.png)
+![Gambar 10](ss/outputt4.png)
