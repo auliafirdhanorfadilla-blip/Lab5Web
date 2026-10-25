@@ -82,7 +82,7 @@ Membuat tiga tombol yang mengubah warna latar halaman.
 
 ![Gambar 21](ss/js8.png)
 
-![Gambar 22](ss/outputo8.png)
+![Gambar 22](ss/output8.png)
 
 
 ### 9. Mini Project — Kalkulator Nilai Mahasiswa
